@@ -1,2 +1,2 @@
-# JieHu2021_Microbiome
+# JieHu2021_Proc B script 
 
